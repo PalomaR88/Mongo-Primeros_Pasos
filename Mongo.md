@@ -1,4 +1,4 @@
-# Instala MongoDB sobre Linux o Windows.
+# Instalación de MongoDB sobre Linux o Windows.
 La instalación del gestor de base de datos Mongo se va a realizar sobre un sistema Debian 9. Los comandos necesarios son los siguientes:
 ~~~
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
