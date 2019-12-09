@@ -29,8 +29,9 @@ service mongod stop
 service mongod restart
 
 mongo
+~~~
 
-
+# Importación de documentos
 > Empleando la utilidad mongoimport introduce los documentos correspondientes a las colecciones productos y zips (códigos postales).
 
 Para usar el comando mongoimport tenemos que indicar una serie de parámetros:
@@ -47,7 +48,7 @@ mongoimport --db --file practica --collection /home/paloma/CICLO/BASE\ codpostal
 
 Pero antes hay que descargar el paquete de herramientas de MongoDB desde la página oficial.
 
-
+# Ejercicios
 > Ejercicios de ejemplo
 3. Introduce un registro con los datos de tu teléfono móvil.
 
